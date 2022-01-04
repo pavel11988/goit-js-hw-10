@@ -18,3 +18,38 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.info-image {
+  border: 2px solid #212121;
+  margin-left: 20px;
+}
+
+.info-title {
+  margin-left: 20px;
+  font-size: 33px;
+}
+
+.info-text {
+  margin-left: 30px;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.list-card {
+  list-style-type: none;
+  display: flex;
+
+}
+
+.list-image {
+  display: block;
+  margin: 10px;
+  margin-left: -20px;
+}
+
+.list-text {
+  display: block;
+  align-self: center;
+  font-size: 20px;
+  font-weight: 500;
+}
