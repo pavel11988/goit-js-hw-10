@@ -10,6 +10,7 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8);
 }
 
 #search-box {
@@ -20,7 +21,6 @@ body {
 }
 
 .info-image {
-  border: 2px solid #212121;
   margin-left: 20px;
 }
 
